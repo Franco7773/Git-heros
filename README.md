@@ -1,7 +1,4 @@
-# Objetivos de la repositorio
+# Objetivos:
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Dominar Git y GitHub
 
-
-## Notas
-Pueden hacer lo que quieran...
