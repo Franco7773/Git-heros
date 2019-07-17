@@ -1,4 +1,4 @@
 # Objetivos:
 
-Dominar Git y GitHub
+Dominar ```Git``` y ```GitHub```
 
